@@ -21,6 +21,7 @@ You can use any of these currencies: EUR, AED, ARS, AUD, BGN, BRL, BSD, CAD, CHF
 
 Possible http codes from response: 
 200 - OK 
+
 503 - Both apis are unavailable right now
 
 If we are talking about possible auth for extended api, I would use something like that: 
